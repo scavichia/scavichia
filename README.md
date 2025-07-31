@@ -3,7 +3,7 @@
 <div>
   <a href="https://beacons.ai/scavichia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scavichia&show_icons=true&theme=github_dark_dimmed"/>     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=scavichia&show_icons=true&theme=github_dark_dimmed&langs_count=8&card_width=100"/>     
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=scavichia&show_icons=true&theme=github_dark_dimmed&langs_count=8&card_width=50"/>     
 </div>
 
   
