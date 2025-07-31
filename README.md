@@ -1,11 +1,5 @@
 ## print("Hello, World! 👋🏻")
 
-<div>
-  <a href="https://beacons.ai/scavichia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scavichia&show_icons=true&theme=github_dark_dimmed"/>     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=scavichia&show_icons=true&theme=github_dark_dimmed&langs_count=8&card_width=50"/>     
-</div>
-
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
@@ -22,7 +16,15 @@
   <a href="https://whatsa.me/5511964035897" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-4FCE5D?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
 
+```python
+class Sophia:
+    def __init__(self):
+        self.stack = ['Python', 'C', 'Machine Learning', 'Data Analysis', 'Theoretical Physics', 'Electricity and Circuits']
+        self.background = ['Computer Science', 'Physics']
+        self.current_task = 'Transforming physical concepts into trading algorithms'
+        self.status = 'Regularly updating to acquire new knowledge'
+        self.hobbies = ['Casual galaxy explorer', 'Playing instruments', 'Binge-watching Star Trek', 'Enjoying nature']
 
-<!--
-
--->
+    def __str__(self):
+        return "Curiosity-driven program, fueled by coffee, running for 19 years."
+```
