@@ -20,7 +20,7 @@ class Sophia:
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img height=120 width=120 align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRwZ3doYm42cmZza2FuaGFpNmh1OWprNjZrdTJ6emswajBmamVjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6HWMEjn7h3JvUvIbT8/giphy.gif" />
+  <img height=150 width=150 align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRwZ3doYm42cmZza2FuaGFpNmh1OWprNjZrdTJ6emswajBmamVjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6HWMEjn7h3JvUvIbT8/giphy.gif" />
 </div>
   
   ##
