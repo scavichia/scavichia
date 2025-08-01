@@ -30,3 +30,5 @@ class Sophia:
   <a href="www.linkedin.com/in/sophiacavichia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://whatsa.me/5511964035897" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-4FCE5D?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
+
+![Snake animation](https://raw.githubusercontent.com/scavichia/scavichia/output/github-contribution-grid-snake.svg)
