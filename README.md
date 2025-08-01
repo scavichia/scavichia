@@ -13,6 +13,9 @@ class Sophia:
         return "Curiosity-driven program, fueled by coffee, running for 19 years."
 ```
 
+<!--
+<br>![Snake animation](https://raw.githubusercontent.com/scavichia/scavichia/output/github-contribution-grid-snake.svg)
+-->
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
@@ -31,4 +34,3 @@ class Sophia:
   <a href="https://whatsa.me/5511964035897" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-4FCE5D?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/scavichia/scavichia/output/github-contribution-grid-snake.svg)
