@@ -1,21 +1,5 @@
 ## print("Hello, World! 👋🏻")
 
-```python
-class Sophia:
-    def __init__(self):
-        self.stack = ['Python', 'C', 'Machine Learning', 'Data Analysis', 'Theoretical Physics', 'Electricity and Circuits']
-        self.background = ['Computer Science', 'Physics']
-        self.current_task = 'Transforming physical concepts into trading algorithms'
-        self.status = 'Regularly updating to acquire new knowledge'
-        self.hobbies = ['Casual galaxy explorer', 'Playing instruments', 'Binge-watching Star Trek', 'Enjoying nature']
-
-    def __str__(self):
-        return "Curiosity-driven program, fueled by coffee, running for 19 years."
-```
-
-<!--
-<br>![Snake animation](https://raw.githubusercontent.com/scavichia/scavichia/output/github-contribution-grid-snake.svg)
--->
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
@@ -33,3 +17,21 @@ class Sophia:
   <a href="www.linkedin.com/in/sophiacavichia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://whatsa.me/5511964035897" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-4FCE5D?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
+
+```python
+class Sophia:
+    def __init__(self):
+        self.stack = ['Python', 'C', 'Machine Learning', 'Data Analysis', 'Theoretical Physics', 'Electricity and Circuits']
+        self.background = ['Computer Science', 'Physics']
+        self.current_task = 'Transforming physical concepts into trading algorithms'
+        self.status = 'Regularly updating to acquire new knowledge'
+        self.hobbies = ['Casual galaxy explorer', 'Playing instruments', 'Binge-watching Star Trek', 'Enjoying nature']
+
+    def __str__(self):
+        return "Curiosity-driven program, fueled by coffee, running for 19 years."
+```
+
+<!--
+<br>![Snake animation](https://raw.githubusercontent.com/scavichia/scavichia/output/github-contribution-grid-snake.svg)
+-->
+
