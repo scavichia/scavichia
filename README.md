@@ -31,7 +31,7 @@ class Sophia:
         self.hobbies = ['Casual galaxy explorer', 'Playing instruments', 'Binge-watching Star Trek', 'Enjoying nature']
 
     def __str__(self):
-        return "Curiosity-driven program, fueled by coffee, running for 19 years."
+        return "Curiosity-driven program, fueled by coffee, running for 20 years."
 ```
 
 <!--
