@@ -1,8 +1,8 @@
-## Welcome to my lab! 👩🏻‍🔬
+# Welcome to my lab! 👩🏻‍🔬
 
 I'm a Computer Science student passionate about Embedded Systems, IoT, robotics, and software development. I enjoy learning by building practical projects and turning ideas into real-world solutions.
 
-# 🚀 What I'm currently working on
+## 🚀 What I'm currently working on
 
 I'm currently working as an Internal Developer at NewTime Estamparia Digital, where I'm developing an Employee Portal as part of the company's digital transformation.
 
@@ -17,7 +17,7 @@ It also provides supervisors with tools to:
 - 🚨 Receive important alerts and notifications
 - 🤝 Interact with HR processes through an integrated platform
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 - C (currently improving)
