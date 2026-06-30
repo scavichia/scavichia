@@ -19,12 +19,12 @@ It also provides supervisors with tools to:
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 C | Python | JavaScript | HTML | CSS | SQL
 
 
-**Tools & Platforms**
-- Power BI | Supabase | Docker | n8n | ESP32 | Arduino
+### Tools & Platforms
+Power BI | Supabase | Docker | n8n | ESP32 | Arduino
 
 ## 📫 How to reach me
 
